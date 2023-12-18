@@ -1,0 +1,5 @@
+{
+    "table_id":"copper-verbena-408405.fire_incidents.data_20231217",
+    "bucket_source":"gs://datalake-raw-test/fire_incidents_2023-12-17.parquet",
+    "format": "PARQUET"
+}
