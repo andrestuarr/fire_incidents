@@ -1,0 +1,4 @@
+{
+    "source_table":"`copper-verbena-408405.fire_incidents.data_20231217`",
+    "final_table":"`copper-verbena-408405.fire_incidents_analysis.ft_fireincidents`"
+}

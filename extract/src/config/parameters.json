@@ -1,0 +1,6 @@
+{
+    "identifier":"wr8u-xric",
+    "limit":"700000",
+    "bucket_name":"datalake-raw-test",
+    "file_name":"fire_incidents_"
+}

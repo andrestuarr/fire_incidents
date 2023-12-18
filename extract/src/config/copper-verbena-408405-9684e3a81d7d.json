@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "copper-verbena-408405",
+  "private_key_id": "9684e3a81d7d16f7d70ad56a8ca4ca48bc1b6b59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+r7/svJzWJCiK\nfju3nVLFFw0RZQvpO5KnVK4CQ6EunjQI2RTvqWlSMxtdqX/OE4SeHnsiNhFq9a3O\n9RZxCZdHQkttvoIGUbwlo4Kvp9eUdGN9QH4sIG9JiAYu5rZTa9FGx51elPXb1Ag4\nrhvDlq47t4IEq+h/epLGHXWWcJSkCetD3HFhTpVn/48ijXV/c/VIRR4L5g0omHNO\nSazACUsz7EaGTlnYkCEnsWqDznmY4Lr55mjeIbSA4KpnO776Du6jNw8GfUkIDRWv\nMhpnf+lBG+GqHOpMRmI2yGe+vP+odZY3Li5w/ZIZLQ5KtFFx2Q/SoTbvZfnPFD5f\nBl6MvkWbAgMBAAECggEACiVxib1lflLRN2v3wybjXb+tadSzGWIammhmk+dDqdEw\nL/JWa1mGfvcKMzskJPPOlYKbXFrSesWqIxN7x2BSb4URshFg0MjuQSBzVo5l6a0h\nvWs+QMcptMNrSiPrkAJyJxkoVf0zcdLVQdLTK7PrqcYeFx/gkKaV2GXT48EyH4zx\n3yBmk3EnUu174rsY5ekY7DO7QJ7XQllDsXczuS/JHHngm9kaCk+buFn5B4QWxl90\n73Cco0ZLun63VEdOJby2fsXtcg72YcWHO6GEU3MH23DP+orX1k36/2zGHMpMXIcE\nhie7/4xfnor7RA/HJKrUbSCnN9YNZdWp2Cwq4erZBQKBgQD59prOAdz4I/mEIus6\nliNrWZrViNZnDq/kV35xxUS/O/Q5/93hGu6+oUiW6UScWvOYf19ejDAuOwfAZRYJ\njhNM53CH1D86ds2F0JdpY2q0QS+CxEwyxrcIOM4UNsSmlXRohVT2KVodbCD6PaAp\nniKC2/kPSjgy7KPIv5nzYCr4zQKBgQDDSqq/1N+8wOY7iFpG4IFoIOeGQylNjWiG\nWIAwfWQ+uE8uysIdMKscE7BjORAplLs0QH3oND2tUaVw0VfH96v8tEsLlWqlmG/h\nBvAlcAu24ULnqarO9CsomuBJaGWyPvZ7JNqdmrnSZ6Dyj0730c5tWbuYjcC0xbTK\n/Q9HejdYBwKBgBh2qCPtTsECVFM4T6lGNGU3Oc4YPFONvm0smvVrhxToOzjJ798u\nEZuakU4julFLHXgZTy4jrjt4D4Qm4IdC3mSyafMBNMb2BZtJFOh9kF3f21SC/aoi\nhJtLY+/ahFiBXAk2s1/8IBOtF3UmPtyT23DPMorqiqGBQ25MQjbtfIcpAoGASJSm\nkzcllDxJFRUfIDpuPeoEwkSRxC3rDAs2UU85A4pye1yF+l1NKtkydB4QILQTQ184\nrCVGSvUOPLjBHCOzeu7y+TIl+beG1SZD+FYFNInR2NGZFuNuat/svbucGDwIVUok\nKfEIYOd8zMlwOvBx/PgdnZwJY+YaxFp65EDK8t8CgYAQgt3UuWbfFP6+gZ1JQSdB\n8dIfTXIgBCHtskDTqvDryJHykoT1N5kYMJMR+miZpA3YFpyeC3AQ0G6pGQXKy4uI\nJqNAksBAB08I9pqiOv1/87CLNegN5KI87kg6ZFh58ib0vkXh/ZKj2LQuAe4qi+du\nAyfET+SurTguYY8hi22ZLQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "andres-tume-desr@copper-verbena-408405.iam.gserviceaccount.com",
+  "client_id": "104939224083563142857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/andres-tume-desr%40copper-verbena-408405.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
